@@ -31,11 +31,11 @@ A: Ruthie Lartey
 B:
 C:
 D:
-E:
+E: minjay jojdfsiohsfvhcksbzfaszfasdsh
 F: Masa
 G:
 H:
-I:
+I
 J:
 K:
 */

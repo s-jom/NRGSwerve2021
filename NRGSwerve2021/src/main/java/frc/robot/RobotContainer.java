@@ -27,7 +27,7 @@ public class RobotContainer {
     // Configure the button bindings
     configureButtonBindings();
 /* 
-A:
+A: Ruthie Lartey
 B:
 C:
 D:

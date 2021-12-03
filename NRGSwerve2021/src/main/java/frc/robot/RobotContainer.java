@@ -31,7 +31,7 @@ A: Ruthie Lartey
 B:
 C:
 D:
-E: minjay jojdfsiohsfvhcksbzfaszfas
+E: minjay jojdfsiohsfvhcksbzfaszfas why isnt this wooooookiufnskjhgsdjzfhvias
 F: Masa
 G:
 H:
